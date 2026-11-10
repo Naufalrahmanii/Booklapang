@@ -57,12 +57,3 @@ docker-compose.yml     app, db, adminer (profile tools)
 .env.example           contoh konfigurasi
 ```
 
-## Screenshot
-(isi dengan screenshot: halaman aplikasi, docker compose ps, curl, uji persistensi)
-
-## Tautan
-- Artikel: (isi tautan)
-- Video demo: (isi tautan)
-
-## AI Usage Declaration
-(Isi sesuai kondisi sebenarnya. Contoh: "Saya menggunakan Claude (Anthropic) untuk membantu menyusun kerangka kode FastAPI, Dockerfile, dan docker-compose.yml. Saya menjalankan, menguji, dan memahami seluruh isi berkas, serta menulis sendiri laporan, narasi video, dan artikel.")
