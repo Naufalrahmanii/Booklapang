@@ -45,7 +45,7 @@ docker compose down -v
 Contoh:
 ```bash
 curl -i -X POST localhost:8000/bookings -H "Content-Type: application/json" \
-  -d '{"court":"Badminton A","name":"Budi","booking_date":"2026-11-15","hour":19}'
+  -d '{"court":"Badminton A","name":"Naufal","booking_date":"2026-11-15","hour":19}'
 ```
 
 ## Struktur
